@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1> Olá! 👋</h1>
+
+-----
+
+<p> Sou apenas um jovem de 18 que está estudando ADS. Quero aprender e viver fazendo o que eu gosto. Pretendo me tornar um game
+developer, mas por enquanto vou tentar só ser um dev front-end talvez :p </p>
+<section style= "align-itens= center;  display: flex; justify-content: center; align-items: center;">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"width="200px">
+</section>
+----
 
 <!--
 **diego-c0pa/diego-c0pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
